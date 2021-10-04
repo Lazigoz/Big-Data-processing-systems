@@ -37,7 +37,7 @@ def start_task9():
         for i in range(1, 6):
             print('Попытка #' + str(i) +
                   '\nВведите вашу букву: ')
-            attempt_choice = str(input())
+            attempt_choice = input()
 
             if attempt_choice == '':
                 return main.start_main_menu()
