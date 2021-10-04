@@ -43,7 +43,7 @@ def to_anagram_word(normal_word):
     return ''.join(anagram_word)
 
 
-def start_task8():
+def start_task10():
     word_file = 'russian_words.txt'
     word_list = open('lab1/' + word_file).read().splitlines()
 
