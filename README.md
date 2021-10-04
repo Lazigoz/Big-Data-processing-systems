@@ -3,6 +3,6 @@
 
 >**Лабораторная работа №1** 
 * Условие: [Задачи 8, 9, 10](https://github.com/fitifit/pythonintask/blob/master/chapter_040.md)
-* Решение: in_progress
+* Решение: [Lab1](https://github.com/OneZee23/Big-Data-processing-systems/tree/master/lab1)
 
 `Автор: Шевелев Н. А. - 4 курс, ИС2 ФТФ.`
