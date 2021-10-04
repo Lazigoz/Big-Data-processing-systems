@@ -1,6 +1,5 @@
 import os
-import sys
-import labs.lab1 as lab1
+import lab1.lab1 as lab1
 
 
 def clear_console():
@@ -28,6 +27,7 @@ def input_menu_choice():
 
 def start_main_menu():
     while True:
+        clear_console()
         print_menu()
         menu_choice = input_menu_choice()
 
