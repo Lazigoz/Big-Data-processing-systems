@@ -1,6 +1,12 @@
 ### Проект для решения лабораторных работ при изучении предмета в университете:
 #### "Системы обработки больших данных"
 
+#### Запуск программы меню:
+```
+python3 main.py
+```
+
+
 >**Лабораторная работа №1** 
 * Условие: [Задачи 8, 9, 10](https://github.com/fitifit/pythonintask/blob/master/chapter_040.md)
 * Решение: [Lab1](https://github.com/OneZee23/Big-Data-processing-systems/tree/master/lab1)
